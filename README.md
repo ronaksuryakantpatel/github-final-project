@@ -1,4 +1,4 @@
-# github-final-project
+# github-final-project - local setup done.
 Creating Repository as a final project of the IBM course
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
